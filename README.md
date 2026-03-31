@@ -7,10 +7,11 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
-Algorithm
-Start the program and import the required Python libraries NumPy and sys. Read the number of variables and the augmented matrix as input
-Apply Gaussian elimination to convert the augmented matrix into an upper triangular matrix using row operations. 3.Perform back substitution to calculate the values of the unknown variables.
-Display the solution of the variables and stop the program.
+Algorithm:
+1.Start the program and import the required Python libraries NumPy and sys. Read the number of variables and the augmented matrix as input
+2.Apply Gaussian elimination to convert the augmented matrix into an upper triangular matrix using row operations. 3.Perform back substitution to calculate the values of the unknown variables.
+3.Display the solution of the variables and stop the program.
+
 
 ## Program:
 ```
